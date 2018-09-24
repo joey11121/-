@@ -2,7 +2,7 @@
 int main(){
  char s[9999];
 while((scanf("%s",s))!=EOF){
- printf("Hello, %s\n", s);
+ printf("hello, %s\n", s);
  } 
  return 0;
 } 
