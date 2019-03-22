@@ -3,9 +3,8 @@
     #include<string.h>
     int main()
     {
- 	   puts("Welcome to C!!");
  	   
-        /*char string[1000];
+        char string[1000];
         int count = 0;
         while(scanf("%s", string)!=EOF){
 		
@@ -19,7 +18,7 @@
             }
               printf("\n");
       
-    	}	*/
+    	}	
       
     }
 
